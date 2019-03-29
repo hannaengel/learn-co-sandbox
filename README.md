@@ -1,6 +1,6 @@
-function doIt(num){
-  consol.log("hello")*num
+function doIt(){
+  consol.log("hello")
 }
 
-num = 4
-function doIt(num)
+
+function doIt()
